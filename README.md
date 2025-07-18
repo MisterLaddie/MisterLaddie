@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there 👋! My name is Thomas Ladd and I'm a Game Designer
 
-<!--
-**MisterLaddie/MisterLaddie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm game designer with expertise in game design, level design, asset creation, and programming. Here's a brief overview of my skills:
 
-Here are some ideas to get you started:
+- C++ and C# programming
+- Designing and implmenting mechanics
+- Drafting level diagrams and designs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies/Software I Work With
+
+- Unreal Engine
+- Unity Engine
+- Autodesk Maya
+- Adobe Photoshop and Illustrator
+- Substance Suite
+
+## 🧾 About Me
+
+I'm a recent graduate game designer whose passion is in constructing fun and engaging experiences. In my design process I craft visually compelling concepts, carefully structured level diagrams, thoughtfully crafted gameplay mechanics, and developing functional prototypes that turn ideas into playable experiences.
